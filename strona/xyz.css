@@ -1,0 +1,106 @@
+#calosc
+{
+    background-image : url("321.jpg") ; 
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px; 
+    min-width: 1000px;
+    min-height: 800px;
+    
+     
+}
+
+#gora
+{
+    
+    position: absolute;
+    background-color:gray;
+    top: 20px;
+    left: 20px;
+    right: 20px;
+    height: 75px;
+    text-align: center;
+    font-size:50px;
+    color:blue;
+}
+
+#stopka
+{
+   
+    position: absolute;
+    background-color:gray;
+    bottom: 20px;
+    left: 20px;
+    right: 20px;
+    height: 75px;
+    text-align: center;
+    font-size:50px;
+}
+
+
+#lewo
+{
+    position: absolute;
+    left: 20px;
+    top: 115px;
+    width: 200px;
+    text-align: center;
+}
+
+
+
+#prawo
+{
+    position: absolute;
+    right: 20px;
+    top: 115px;
+    width: 230px;
+    background-color:slategrey;
+    height: 300px;
+}
+
+#srodek
+{
+    background-image : url("123.jpg") ; 
+    background-repeat: no-repeat;
+
+    position: absolute;
+    
+    top: 115px;
+    right: 250px;
+    left: 170px;
+    padding: 20px;
+    margin-left:20px;
+    margin-right:20px;
+    min-width: 500px;
+    height: 600px;
+
+
+}
+
+#lewo ul
+{
+    list-style: none;
+    padding: 0px;
+}
+
+
+#lewo a
+{
+    display: block;
+    background-color: slategrey;
+    color: black;
+    border: 1px solid blue;
+    text-decoration: none;
+    width: 140px;
+    padding: 5px;
+}
+
+.border {
+border: 1px solid white;
+}
+
+    		
